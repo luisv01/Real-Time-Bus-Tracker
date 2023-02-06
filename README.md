@@ -1,13 +1,22 @@
 # Real Time Bus Tracker
+<<<<<<< HEAD
 ## Description of the project: 
+=======
+## Description of the project:
+>>>>>>> 6d56f33 (corrected README.md)
 How to Run: Please run the index.html file on a browser. Once the page loads, just click "Real Time Bus Tracker".
 The improvements made on this iteration are:
 Track the buses that are currently running (every 15 seconds) by adding a marker per bus.
 The color of the marker on the map will be different for each bus.
 
+<<<<<<< HEAD
 ## Roadmap of future improvements: 
 Add different routes and give the user the ablility to select from a list of routes.
 I would also like to add routes for other cities that have a public API sharing this type of data.
+=======
+## Roadmap of future improvements:
+Add different routes and give the user the ability to select from a list of routes.
+>>>>>>> 6d56f33 (corrected README.md)
 
 ## License information
 MIT License
